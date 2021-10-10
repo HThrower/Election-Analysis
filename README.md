@@ -43,12 +43,14 @@ The premise of this analysis is to better understand the results of the election
   
 * Code Overview
  1) Total Votes in the election
+ 
 <img src="https://user-images.githubusercontent.com/31675832/136710504-3dda7df7-4cf2-41fc-8c47-d9b201587269.png" width="300"/>
 
-2)
+2) Election Code
 <img src="https://user-images.githubusercontent.com/31675832/136714077-2c990815-cfac-4d74-9fe4-43e7c4edea09.png" width="300"/>
 
 3) Election Results
+
  <img src="https://user-images.githubusercontent.com/31675832/136708818-9465b699-d5c2-436d-8a4b-809a6c544327.png" width="200"/>
 
 
